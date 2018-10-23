@@ -8,7 +8,7 @@ about: Found a bug?
 A clear and concise description of what the bug is.
 
 **To Reproduce**
-Steps to reproduce the behavior:
+Steps to reproduce the bug:
 1. Go to page http://lambdaenigma.com/PAGE_NAME
 2. Perform the following action: YOUR_ACTION
 3. -OR- Enter the following program: YOUR_CODE
