@@ -1,7 +1,7 @@
 ---
 name: Puzzle Solution
 about: Submit your solutions to puzzles to help the community make progress.
-title: 'Puzzle #[Number]'
+title: 'Puzzle #[Number] Solution'
 labels: puzzle
 assignees: ''
 
