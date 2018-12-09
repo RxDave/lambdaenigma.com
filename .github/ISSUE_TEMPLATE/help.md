@@ -1,6 +1,9 @@
 ---
 name: Help
 about: Need help with a puzzle?
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
