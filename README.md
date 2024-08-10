@@ -6,7 +6,7 @@ As a result, I've temporarily taken down the website (http://lambdaenigma.com) w
 
 ## About the Game
 
-**A picture puzzle has a frame. And it has pieces. The pieces are part of a larger picture. The player composes the pieces together into an arrangement that fits within the frame and correctly forms the intended picture.**
+**A jigsaw puzzle has a frame. And it has pieces. The pieces are part of a larger picture. The player composes the pieces together into an arrangement that fits within the frame and correctly forms the intended picture.**
 
 ![Lambda Enigma](https://raw.githubusercontent.com/RxDave/lambdaenigma.com/master/PuzzlePieceLogoEmbossed.png "Lambda Enigma")
 
